@@ -21,7 +21,6 @@ class MainActivity : ComponentActivity() {
         enableEdgeToEdge()
         setContent {
             PabloGutierrezCumplidoTheme {
-                PantNuevoJugador()
             }
         }
     }
