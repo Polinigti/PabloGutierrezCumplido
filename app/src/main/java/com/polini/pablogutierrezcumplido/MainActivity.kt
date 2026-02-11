@@ -12,6 +12,7 @@ import androidx.compose.runtime.Composable
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.tooling.preview.Preview
 import com.polini.pablogutierrezcumplido.pantallas.PantLogin
+import com.polini.pablogutierrezcumplido.pantallas.PantNuevoJugador
 import com.polini.pablogutierrezcumplido.ui.theme.PabloGutierrezCumplidoTheme
 
 class MainActivity : ComponentActivity() {
@@ -20,7 +21,7 @@ class MainActivity : ComponentActivity() {
         enableEdgeToEdge()
         setContent {
             PabloGutierrezCumplidoTheme {
-                PantLogin()
+                PantNuevoJugador()
             }
         }
     }

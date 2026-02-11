@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "874012120938",
+    "project_id": "pablogutierrezcumplido-324db",
+    "storage_bucket": "pablogutierrezcumplido-324db.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:874012120938:android:b66741136f1158b26b7713",
+        "android_client_info": {
+          "package_name": "com.polini.pablogutierrezcumplido"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARNX1juQ0RGWwWmDkFcfOlRIwZznWC0qM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
